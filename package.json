@@ -1,12 +1,13 @@
 {
-  "name": "server-ts",
-  "version": "1.0.0",
-  "description": "A simple Typescript server to serve HTML content. Next Feature: Add HTMX",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "mellowboyXD",
-  "license": "ISC"
+	"name": "server-ts",
+	"version": "1.0.0",
+	"description": "A simple Typescript server to serve HTML content. Next Feature: Add HTMX",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"serve": "node server.js"
+	},
+	"keywords": [],
+	"author": "mellowboyXD",
+	"license": "ISC"
 }
